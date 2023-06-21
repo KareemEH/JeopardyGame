@@ -4,7 +4,6 @@ The main reason this project resides on my github is to serve as a reminder to m
 
 ## Things to Note
 * This project was made in in my third year of highschool, and was my first ever solo personal project.
-* There is a lot of copy and paste, which shows my(at the time) lack of software design knowledge.
 * Project was made using the python Tkinter library.
 
 ## How to run
