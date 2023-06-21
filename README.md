@@ -9,3 +9,6 @@ The main reason this project resides on my github is to serve as a reminder to m
 ## How to run
 * If you do decide (for whatever reason) to use this all you have to do is run the jeopardy.py file.
 * In order to change the categories, questions and answers you have to go into the jeopardy.py file and change the string values as you wish.
+
+## Screenshot
+![Jeopardy](https://github.com/KareemEH/JeopardyGame/blob/main/Jeopardy.png?raw=true)
